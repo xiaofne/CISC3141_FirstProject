@@ -1,0 +1,102 @@
+.subsec {
+	color: white;
+}
+
+ul {
+	color: white;
+	display: inline-block;
+	border: 2px solid white;
+	padding-right: 25px;
+	border-radius: 15px;
+}
+
+#linkawake {
+	object-position: 1px 7px;
+	border: 2px solid #01a049;
+}
+
+#link2d {
+	object-position: 0px 15px;
+	border: 2px solid #6ba55b;
+	}
+
+#linkmm {
+	object-position: 11px 23px;
+	border: 2px solid #067d04;
+}
+
+#ravio {
+	object-position: -7px -5px;
+	border: 2px solid #aa5786;
+}
+
+#navi {
+	object-position: -80px 17px;
+	border: 2px solid #4ca9c2;
+}
+
+#tatl {
+	object-position: 5px 10px;
+	border: 2px solid #ffdd3a;
+}
+
+#tael {
+	object-position: -11px -33px;
+	border: 2px solid #810c4d;
+}
+
+#marinawake {
+	object-position: 5px 5px;
+	border: 2px solid #2c97dd;
+}
+
+#malonoot {
+	object-position: -5px 15px;
+	border: 2px solid #b44d11;
+}
+
+#zeldabetween {
+	object-position: -3px 12px;
+	border: 2px solid #ff6b93;
+}
+
+#sszelda{
+	object-position: 10px 15px;
+	border: 2px solid #c6466b;
+}
+
+#hilda {
+	object-position: 22px 15px;
+	border: 2px solid #6a26a2;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+	margin: 25px;
+	overflow: hidden;
+	box-sizing: border-box;
+	border-radius: 60px;
+}
+
+td {
+	color: white;
+	font-size: 12px;
+	text-align: left;
+	border: 1px solid white;
+	padding: 5px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+* {
+  font-family: 'Courier New', monospace;
+  color: white;
+}
+
+hr {
+	border-color: white;
+}
